@@ -1,6 +1,6 @@
 {
   "name": "homebridge-broadlink-rm4",
-  "version": "3.6.23",
+  "version": "3.6.24",
   "description": "Fork of Broadlink RM plugin (https://github.com/lprhodes/broadlinkjs-rm) with support RM4 devices for homebridge: https://github.com/nfarina/homebridge",
   "license": "ISC",
   "scripts": {
@@ -18,7 +18,7 @@
     "homebridge": ">=0.2.0"
   },
   "author": {
-    "name": "Defensor"
+    "name": "tcannonfodder"
   },
   "repository": {
     "type": "git",
